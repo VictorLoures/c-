@@ -1,0 +1,36 @@
+{
+  "alunos": [
+    { "id" : "1", "matricula": "123", "nome": "Ana" },
+    { "id" : "2", "matricula": "125", "nome": "Bruno" },
+    { "id" : "3", "matricula": "127", "nome": "Carlos" }
+  ],
+  "feeds": [
+    {
+      "id": 1,
+      "usuario": "Bruno",
+      "imagem": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
+      "acao": "Adicionou você como amigo",
+      "hora": "1",
+      "likes": 60,
+      "link": "https://yahoo.com.br"
+    },
+    {
+      "id": 2,
+      "usuario": "Ana",
+      "imagem": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
+      "acao": "Adicionou você como amigo",
+      "hora": "4",
+      "likes": 5712,
+      "link": "https://yahoo.com.br"
+    },
+    {
+      "id": 3,
+      "usuario": "Carlos",
+      "imagem": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
+      "acao": "Adicionou você como inimigo",
+      "hora": "-1",
+      "likes": 8036,
+      "link": "https://yahoo.com.br"
+    }
+  ]
+}
